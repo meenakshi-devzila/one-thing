@@ -133,4 +133,471 @@ input:focus{box-shadow: inherit; outline: none;}
 		font-size: 38px;
 	}
 	
-}	
+}
+/*=====================page1===========================================*/
+.frame-frame{
+    position: fixed;
+    margin-top: 78px;
+  }
+  .img-logo-11{
+  margin-top:-29px;
+  margin-left: 0px;
+  
+}
+.search-1{
+  position: absolute;
+  margin-top: -30px;
+  margin-left: 46rem;
+
+}
+.inputbox-1{
+  
+  margin-bottom:-25px;
+  margin-left: 450px;
+  margin-right: -480px;
+  padding-left: 15px;
+  padding-right: 20px;
+  margin-top: -12px;
+  background-color: #F8EA1E;
+  height: 90px;
+  width: 800px;
+}
+
+.inputbox-box .focus-input:before {
+    content: "";
+    display: block;
+    position: absolute;
+    border-bottom: 0
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #7f7f7f;
+   /* -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;*/
+}
+  .search-font-1{
+    font-family: 'Questrial', sans-serif;
+    background: #F8EA1E;
+    border: 0;
+    width: 850px;
+    padding-top: 12px;
+    border-bottom: 1px solid black;
+
+
+    
+  }
+  @import url('https://fonts.googleapis.com/css?family=Lexend+Exa&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=Didact+Gothic=swap');
+  @import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+/*------------------search page-----------------------------*/
+.footer-1 {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:  #C0C0C0;
+   color: black;
+   text-align: center;
+   height: 18%;
+   padding-top: 15px;
+   font-family: 'Lexend Exa', sans-serif;
+}
+.center-1 {
+  position: absolute;
+  display:block;
+  margin-left: 400px;
+  margin-right: auto;
+  margin-top: -80px;
+  width: 22%;
+  
+}
+
+.img-logo-1{
+  margin-top:-49px;
+  margin-left: 0px;
+  height:260px; 
+  width:260px;
+}
+.search{
+  position: absolute;
+  margin-top: -30px;
+  margin-left: 46rem;
+
+}
+.inputbox-box{
+  
+  margin-bottom:-25px;
+  margin-left: 450px;
+  margin-right: -500px;
+  padding-left: 15px;
+  padding-right: 20px;
+  margin-top: -47px;
+  background-color: #F8EA1E;
+  height: 90px;
+  width: 800px;
+}
+.inputbox-box input{
+  border:0;
+  border-bottom: 1px solid black;
+  box-shadow: inherit;
+  font-size: 16px;
+  color: #333333;
+  display: block;
+  width: 98%;
+  height: 55px;
+  background: #F8EA1E;
+}
+
+.inputbox-box .focus-input:before {
+    content: "";
+    display: block;
+    position: absolute;
+    border-bottom: 0
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #7f7f7f;
+   /* -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;*/
+}
+.frame-1{
+    position: fixed;
+    margin-top: 45px;
+  }
+  .search-font{
+    font-family: 'Didact Gothic', sans-serif;
+    
+  }
+  @import url('https://fonts.googleapis.com/css?family=Lexend+Exa&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=Didact+Gothic=swap');
+  @import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+.background-tab{
+     background-color:#F8EA1E;
+     font-family: 'Questrial', sans-serif;
+     font-weight:bold;
+      }
+.eat-ham-1{
+    font-size: 18px;
+    margin-top: 0px;
+    font-family: 'Questrial', sans-serif;
+  }
+
+.text{
+  font-family: 'Questrial', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+.numerals-1{
+	  font-family: 'Questrial', sans-serif;
+     font-size: 12px;
+}
+.paragraph-font{
+	 font-family: 'Questrial', sans-serif;
+}
+
+.yellow-shadow {
+    background: yellow;
+    width: 50%;
+    height: 100%;
+    z-index: 5;
+    opacity: .5;
+    right: 0;
+    margin-right: 15px;
+}
+.carousel-control-prev-icon{
+	height: auto;
+}
+
+.main {
+   position: relative;
+    float: right;
+    width: 45%;
+    height: 38%;
+    margin: 0px;
+    background-color:#F8EA1E; 
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:  #C0C0C0;
+   color: black;
+   text-align: center;
+   height: 18%;
+   padding-top: 15px;
+   font-family: 'Questrial', sans-serif;
+}
+.img-logo-1{
+  margin-top:-55px;
+  margin-left: 0px;
+  height:290px; 
+  width:250px;
+}
+.form-control {
+    border: 0;
+    background-color: #F8EA1E;
+    height: 89px;
+    width: 80%;
+    margin-right: -100px;
+    margin-left: 348px;
+}
+.search{
+  position: absolute;
+  margin-top: -30px;
+  margin-left: 47rem;
+
+}
+.inputbox{
+  
+  margin-bottom:-25px;
+  margin-left: 450px;
+  margin-right: -500px;
+  padding-left: 15px;
+  padding-right: 20px;
+  margin-top: -47px;
+  background-color: #F8EA1E;
+  height: 90px;
+  width: 800px;
+}
+.inputbox input{
+  border:0;
+  border-bottom: 1px solid black;
+  box-shadow: inherit;
+  font-size: 16px;
+  color: #333333;
+  display: block;
+  width: 100%;
+  height: 55px;
+  background: transparent;
+}
+
+/*.inputbox .focus-input:before {
+    content: "";
+    display: block;
+    position: absolute;
+    border-bottom: 0
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #7f7f7f;*/
+   /* -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;*/
+/*}*/
+.frame{
+    position: fixed;
+    margin-top: 43px;
+  }
+  .search-font{
+ font-family: 'Questrial', sans-serif;
+  }
+
+/*--------------------------------------------------------------
+# Responsive Media Queries
+--------------------------------------------------------------*/
+
+ @media (max-width: 991px) {
+  .loginBox{
+    position:static;
+    height:auto;
+    margin-top: 50px;
+  }
+
+}
+
+<!--footer Style -->
+ /* @import url('https://fonts.googleapis.com/css?family=Lexend+Exa&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic=swap');*/
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+
+/*====page 5==================*/
+
+    @import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+  .paragraph-font{
+    font-family: 'Questrial', sans-serif;
+  }
+  .text{
+    font-family: 'Questrial', sans-serif;
+    font-size: 12px;
+  }
+  
+  .numerals{
+   font-family: 'Questrial', sans-serif;
+   font-size: 14px;
+  }
+  
+  .background-tab{
+      background-color:#F8EA1E;
+      font-family: 'Questrial', sans-serif;
+      font-weight: bold;
+      }
+  .eat-ham{
+    font-size: 20px;
+    margin-top: 0px;
+    font-family: 'Questrial', sans-serif;
+  }
+  .blog .carousel-indicators {
+    left: 0;
+    top: auto;
+    bottom: -40px;
+
+}
+
+/* The colour of the indicators */
+.blog .carousel-indicators li {
+    background: #a3a3a3;
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+}
+
+.blog .carousel-indicators .active {
+background: #707070;
+}
+.drink-image{
+  margin-top: 68px;
+  margin-left: 15px;
+ 
+
+}
+.p-Drink-Spritz-Giggles{
+  margin-left: 0px;
+  font-family: 'Questrial', sans-serif;
+}
+.logo{
+  margin-left: 25px;
+}
+.map{
+  margin-left: 30px;
+  margin-top: 68px;
+}
+.car-image-1{
+  margin-left: -32px;
+  margin-top: 25px;
+}
+.image-text-top-1{
+  margin-left:-200px;
+  margin-top: -20px;
+  font-size: 18px;
+}
+.frame-11{
+    position: fixed;
+   margin-top: 0px;
+  }
+
+
+/*====================page6=================================*/
+ @import url('https://fonts.googleapis.com/css?family=Nanum+Gothic &display=swap');
+    @import url('https://fonts.googleapis.com/css?family=Source+Sans &display=swap');
+    @import url('https://fonts.googleapis.com/css?family=Blinker+Sans &display=swap');
+  .paragraph-font{
+    font-family: 'Nanum Gothic', sans-serif;
+  }
+  .text-text{
+     font-family: 'Questrial', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .numerals{
+    font-family: 'Questrial', sans-serif;
+     font-size: 12px;
+  }
+   .carousel-inner img {
+      width: 50%;
+      height: 50%;
+  }
+  .background-tab{
+     background-color:#F8EA1E;
+     font-family: 'Questrial', sans-serif;
+     font-weight: bold;
+
+  
+      }
+  .eat-ham-11{
+    font-size: 18px;
+    margin-top: -180px;
+     font-family: 'Questrial', sans-serif;
+  }
+  .blog .carousel-indicators {
+    left: 0;
+    top: auto;
+    bottom: -40px;
+
+}
+
+/* The colour of the indicators */
+.blog .carousel-indicators li {
+    background: #a3a3a3;
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+}
+
+.blog .carousel-indicators .active {
+background: #707070;
+}
+.drink-image{
+  margin-top: 68px;
+  margin-left: 15px;
+}
+.drink-image-image{
+  margin-top: 175px;
+  margin-left: -200px;
+  font-family: 'Questrial', sans-serif;
+
+ }
+.p-Drink-Spritz-Giggles{
+  margin-left: -8px;
+  font-family: 'Questrial', sans-serif;
+
+}
+.logo{
+  margin-left: 25px;
+}
+.map{
+  margin-left: 30px;
+  margin-top: 68px;
+}
+.car-image{
+  margin-left: -32px;
+  margin-top: -229px;
+}
+.drink-image-bottom{
+  margin-left: -380px;
+  margin-top: -20px;
+}
+.image-text-top{
+  margin-left:-374px ;
+  margin-top: -255px;
+}
+.image-text-top-image{
+  margin-left:-235px;
+  margin-top:110px;
+}
+.text-1{
+  margin-top: 75px;
+  margin-left: 25px;
+  font-family: 'Questrial', sans-serif;
+
+}
+.social-media-signs-1{
+  margin-top: 140px;
+  margin-left: -350px;
+}
+.frame{
+    position: fixed;
+   margin-top: 0px;
+  }
+

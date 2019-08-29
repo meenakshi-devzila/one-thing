@@ -1,0 +1,93 @@
+#grad1 {
+  background-image: linear-gradient(to right, rgba(215, 200, 141), rgba(138, 224, 197)); /* Standard syntax (must be last) */
+}
+
+.form{
+     position: relative;
+     border: 0;
+     height: 450px;
+     max-width:420px;
+     border-radius: 25px;
+     top:150px;
+     margin: 0px auto;
+     alignment-baseline: central;
+     background-color: white;
+}
+.card{
+     position: absolute;
+     border: 0;
+     border-radius: 25px;
+     height: 210px;
+     width: 360px;
+     left: 30px;
+     top: -105px;
+     alignment-baseline: central;
+     background-color: #8C2965;
+     padding: 20px;
+}
+
+.input-fields{
+    top: 80px;
+    position: absolute;
+    width: 100%;
+    color: black;
+    font-size: 12px;
+    border-radius: 10px:;
+}
+@media (max-width: 768px) {
+.card-number{
+    margin-top: 25px;
+    margin-left: 24px;
+}
+}
+@media (max-width:574px){
+.card-left-side-text{
+    margin-top: -15px;
+    }
+}
+@media (max-width:574px){
+.card-right-side-text{
+    margin-top: -55px;
+    }
+}
+@media (max-width:574px){
+.visa{
+    margin-top: -22px;
+    }
+}
+@media (max-width:766px){
+.inputs{
+    display: block;
+    width: 85px;
+    height: calc(1.5em + .75rem + 2px);
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 1;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    }
+}
+@media (max-width:766px){
+.css-animation{
+    width: 85%;
+    }
+}
+@media (max-width:766px){
+.select-field{
+    width: 82px; 
+    }
+}
+@media (max-width:766px){
+.ccv{
+    padding-left: 16rem!important;
+    padding-right: 3.5rem;
+    margin-top: -82px;
+    }
+}
+@media (max-width:766px){
+.submit{
+      width: 80%  
+    }

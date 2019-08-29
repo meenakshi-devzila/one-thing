@@ -1,0 +1,9 @@
+.white-box{
+
+    border: 0;
+    height: 450px;
+    border-radius: 25px;
+    background-color: aliceblue;
+    top: 100px;
+    width: 100px;
+}
